@@ -1,0 +1,41 @@
+Case ID,Actor,Action,Outcome,Start Timestamp,Complete Timestamp
+5660,Event Organizer,Creates a new event schedule,Success,9/30/2024 16:39,9/30/2024 16:41
+4237,Event Organizer,Send event details to the customer,Success,9/30/2024 16:41,9/30/2024 16:43
+8027,Customer,Receive proposed event schedule,Success,9/30/2024 16:43,9/30/2024 16:46
+2101,Customer,Confirm proposed schedule,Success,9/30/2024 16:46,9/30/2024 16:47
+8399,Event Organizer,Secure the venue and resources,Success,9/30/2024 16:47,9/30/2024 16:52
+1940,Event Organizer,Send a confirmation notification,Success,9/30/2024 16:52,9/30/2024 16:53
+8943,Customer,Receive confirmation notification,Success,9/30/2024 16:53,9/30/2024 16:55
+2096,Event Organizer,Creates a new event schedule,Success,9/30/2024 16:40,9/30/2024 16:41
+2100,Event Organizer,Send event details to the customer,Success,9/30/2024 16:41,9/30/2024 16:42
+2314,Customer,Receive proposed event schedule,Success,9/30/2024 16:42,9/30/2024 16:43
+6409,Customer,Confirm proposed schedule,Success,9/30/2024 16:43,9/30/2024 16:44
+8026,Event Organizer,Secure the venue and resources,Success,9/30/2024 16:44,9/30/2024 16:49
+7839,Event Organizer,Send a confirmation notification,Success,9/30/2024 16:49,9/30/2024 16:51
+6308,Customer,Receive confirmation notification,Success,9/30/2024 16:51,9/30/2024 16:52
+4122,Event Organizer,Creates a new event schedule,Success,9/30/2024 16:41,9/30/2024 16:46
+8270,Event Organizer,Send event details to the customer,Success,9/30/2024 16:46,9/30/2024 16:52
+4818,Customer,Receive proposed event schedule,Success,9/30/2024 16:52,9/30/2024 16:54
+2029,Customer,Request changes to the schedule,Success,9/30/2024 16:54,9/30/2024 16:56
+2537,Event Organizer,Review Requested changes,Success,9/30/2024 16:56,9/30/2024 16:59
+8815,Event Organizer,Inform customer and provide alternatives,Not feasible,9/30/2024 17:00,9/30/2024 17:05
+9661,Customer,Review provided alternatives,Success,9/30/2024 17:05,9/30/2024 17:07
+9999,Customer,Decline alternatives,Success,9/30/2024 17:07,9/30/2024 17:10
+2529,Event Organizer,Creates a new event schedule,Success,9/30/2024 16:42,9/30/2024 16:45
+8901,Event Organizer,Send event details to the customer,Success,9/30/2024 16:45,9/30/2024 16:48
+9919,Customer,Receive proposed event schedule,Success,9/30/2024 16:48,9/30/2024 16:49
+2581,Customer,Confirm proposed schedule,Success,9/30/2024 16:49,9/30/2024 16:51
+9110,Event Organizer,Secure the venue and resources,Success,9/30/2024 16:51,9/30/2024 16:56
+2551,Event Organizer,Send a confirmation notification,Success,9/30/2024 16:56,9/30/2024 16:57
+6809,Customer,Receive confirmation notification,Success,9/30/2024 16:57,9/30/2024 16:58
+5330,Event Organizer,Creates a new event schedule,Success,9/30/2024 16:43,9/30/2024 16:48
+1708,Event Organizer,Send event details to the customer,Success,9/30/2024 16:48,9/30/2024 16:50
+5085,Customer,Receive proposed event schedule,Success,9/30/2024 16:50,9/30/2024 16:53
+9276,Customer,Request changes to the schedule,Success,9/30/2024 16:53,9/30/2024 16:56
+3840,Event Organizer,Review Requested changes,Success,9/30/2024 16:56,9/30/2024 17:00
+9165,Event Organizer,Update requested schedule and notify the customer,Feasible change,9/30/2024 17:02,9/30/2024 17:04
+4642,Customer,Review updated schedule,Success,9/30/2024 17:04,9/30/2024 17:08
+8059,Customer,Confirm updated schedule,Success,9/30/2024 17:08,9/30/2024 17:09
+3080,Event Organizer,Secure the venue and resources,Success,9/30/2024 17:09,9/30/2024 17:11
+2837,Event Organizer,Send a confirmation notification,Success,9/30/2024 17:11,9/30/2024 17:13
+8360,Customer,Receive confirmation notification,Success,9/30/2024 17:13,9/30/2024 17:14

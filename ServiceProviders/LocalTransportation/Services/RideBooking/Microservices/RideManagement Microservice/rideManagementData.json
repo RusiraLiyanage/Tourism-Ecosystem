@@ -1,0 +1,12 @@
+{
+    "rideData": [
+      {
+        "ride_id": 1,
+        "vehicle": "vehicle1",
+        "time": "2024-11-01 10:00",
+        "pickup_location": "Location A",
+        "dropoff_location": "Location B"
+      }
+    ]
+  }
+  

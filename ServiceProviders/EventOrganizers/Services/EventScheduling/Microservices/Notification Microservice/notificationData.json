@@ -1,0 +1,124 @@
+{
+    "notificationData": [
+        {
+            "event_id": 1,
+            "message": "Your event 'Tech Conference' has been successfully scheduled for 2023-09-30 at 10:00 at venue1.",
+            "recipient": "customer",
+            "type": "confirmation"
+        },
+        {
+            "event_id": 2,
+            "message": "Reminder: Your event 'Art Workshop' is scheduled for 2023-10-01 at 14:00. Please confirm your attendance.",
+            "recipient": "customer",
+            "type": "reminder"
+        },
+        {
+            "event_id": 1,
+            "message": "The event 'Tech Conference' scheduled for 2023-09-30 has been canceled due to venue unavailability.",
+            "recipient": "event_organizer",
+            "type": "cancellation"
+        },
+        {
+            "event_id": 3,
+            "message": "Your event 'Music Concert' has been rescheduled to 2023-10-15 at 18:00 at venue2.",
+            "recipient": "customer",
+            "type": "update"
+        },
+        {
+            "event_id": 4,
+            "message": "Your event 'Startup Pitch Night' has been successfully scheduled for 2023-11-20 at 17:00 at venue5.",
+            "recipient": "customer",
+            "type": "confirmation"
+        },
+        {
+            "event_id": 2,
+            "message": "The venue for the event 'Art Workshop' has been updated to venue3 for 2023-10-01 at 14:00.",
+            "recipient": "event_organizer",
+            "type": "update"
+        },
+        {
+            "event_id": 14,
+            "message": "Your event 'Birthday Party' has been successfully scheduled for 2023-09-30 10:00 at venue1.",
+            "recipient": "customer",
+            "type": "confirmation"
+        },
+        {
+            "event_id": 2,
+            "message": "Your event 'Wedding Reception' has been successfully updated to 2023-09-30 15:00 at venue3. Thank you for your patience!",
+            "recipient": "customer",
+            "type": "update"
+        },
+        {
+            "event_id": 2,
+            "message": "We regret to inform you that your event 'Wedding Reception' scheduled for 2023-09-30 15:00 at venue3 has been canceled. Please contact us for further assistance.",
+            "recipient": "customer",
+            "type": "cancellation"
+        },
+        {
+            "event_id": 13,
+            "message": "Your event 'Birthday Party' has been successfully scheduled for 2023-09-30 10:00 at venue1.",
+            "recipient": "customer",
+            "type": "confirmation"
+        },
+        {
+            "event_id": 14,
+            "message": "Your event 'Birthday Party' has been successfully scheduled for 2023-09-30 10:00 at venue1.",
+            "recipient": "customer",
+            "type": "confirmation"
+        },
+        {
+            "event_id": 15,
+            "message": "Your event 'Birthday Party' has been successfully scheduled for 2023-09-30 10:00 at venue1.",
+            "recipient": "customer",
+            "type": "confirmation"
+        },
+        {
+            "event_id": 16,
+            "message": "Your event 'Birthday Party' has been successfully scheduled for 2023-09-30 10:00 at venue1.",
+            "recipient": "customer",
+            "type": "confirmation"
+        },
+        {
+            "event_id": 17,
+            "message": "Your event 'Birthday Party' has been successfully scheduled for 2023-09-30 10:00 at venue1.",
+            "recipient": "customer",
+            "type": "confirmation"
+        },
+        {
+            "event_id": 17,
+            "message": "We regret to inform you that your event 'Birthday Party' scheduled for 2023-09-30 10:00 at venue1 has been canceled. Please contact us for further assistance.",
+            "recipient": "customer",
+            "type": "cancellation"
+        },
+        {
+            "event_id": 13,
+            "message": "Your event 'Birthday Party' has been successfully scheduled for 2023-09-30 10:00 at venue2.",
+            "recipient": "customer",
+            "type": "confirmation"
+        },
+        {
+            "event_id": 13,
+            "message": "We regret to inform you that your event 'Birthday Party' scheduled for 2023-09-30 10:00 at venue11 has been canceled. Please contact us for further assistance.",
+            "recipient": "customer",
+            "type": "cancellation"
+        },
+        {
+            "event_id": 13,
+            "message": "Your event 'Wedding Reception' has been successfully updated to 2023-09-30 15:00 at venue1. Thank you for your patience!",
+            "recipient": "customer",
+            "type": "update"
+        },
+        {
+            "event_id": 2,
+            "message": "Your event 'Wedding Reception' has been successfully updated to 2023-09-30 15:00 at venue2. Thank you for your patience!",
+            "recipient": "customer",
+            "type": "update"
+        },
+        {
+            "event_id": 2,
+            "message": "We regret to inform you that your event 'Wedding Reception' scheduled for 2023-09-30 15:00 at venue2 has been canceled. Please contact us for further assistance.",
+            "recipient": "customer",
+            "type": "cancellation"
+        }
+    ]
+}

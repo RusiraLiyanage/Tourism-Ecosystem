@@ -1,0 +1,10 @@
+{
+    "notificationData": [
+      {
+        "ride_id": 1,
+        "type": "confirmation",
+        "message": "Your ride with vehicle1 has been booked for 2024-11-01 10:00"
+      }
+    ]
+  }
+  

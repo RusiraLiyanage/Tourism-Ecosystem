@@ -1,0 +1,13 @@
+{
+    "availabilityData": {
+      "vehicle1": {
+        "2024-11-01 10:00": "available",
+        "2024-11-01 12:00": "booked"
+      },
+      "vehicle2": {
+        "2024-11-01 11:00": "available",
+        "2024-11-01 13:00": "booked"
+      }
+    }
+  }
+  

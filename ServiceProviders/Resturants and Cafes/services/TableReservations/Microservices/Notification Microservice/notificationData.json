@@ -1,0 +1,9 @@
+{
+    "notifications": [
+      {
+        "reservation_id": 1,
+        "type": "confirmation",
+        "message": "Your table reservation for table1 at 2023-09-30 19:00 is confirmed."
+      }
+    ]
+  }

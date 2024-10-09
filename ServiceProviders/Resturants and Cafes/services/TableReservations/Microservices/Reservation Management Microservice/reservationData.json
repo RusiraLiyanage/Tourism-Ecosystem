@@ -1,0 +1,10 @@
+{
+    "reservations": [
+      {
+        "reservation_id": 1,
+        "table": "table1",
+        "time": "2023-09-30 19:00",
+        "customer_name": "John Doe"
+      }
+    ]
+  }

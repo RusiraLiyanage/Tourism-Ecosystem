@@ -1,0 +1,10 @@
+{
+    "availabilityData": {
+      "table1": {
+        "2023-09-30 19:00": "available"
+      },
+      "table2": {
+        "2023-09-30 19:00": "booked"
+      }
+    }
+  }
