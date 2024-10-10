@@ -91,3 +91,9 @@ while(True):
         case_id = random.randint(1000, 9999)
         log_event(case_id, log_file, organizer, "Booking process finished", "Success", start_time, complete_time)
         break
+    else:
+        # T4 The system found the time and vehicle is not available
+        start_time = complete_time
+        complete_time = start_time + timedelta(minutes=random.randint(1,4))
+        case_id = random.randint(1000, 9999)
+        log_event(case_id, log_file, organizer, "Booking failed", "Fail", start_time, complete_time)
