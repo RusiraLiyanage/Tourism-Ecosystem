@@ -1,0 +1,106 @@
+Case ID,Actor,Action,Outcome,Start Timestamp,Complete Timestamp
+7168,Customer,Creates a new booking,Success,2024-10-11 10:05:21,2024-10-11 10:09:21
+1269,Customer,Selects Date,Success,2024-10-11 10:09:21,2024-10-11 10:11:21
+4145,Customer,Selects Time,Success,2024-10-11 10:11:21,2024-10-11 10:13:21
+7246,Customer,Creates a new booking,Success,2024-10-11 10:05:21,2024-10-11 10:06:21
+3518,Customer,Selects Date,Success,2024-10-11 10:06:21,2024-10-11 10:10:21
+4934,Customer,Selects Time,Success,2024-10-11 10:10:21,2024-10-11 10:11:21
+1948,Local Transportation System,Checks Availablility,Success,2024-10-11 10:11:21,2024-10-11 10:12:21
+6622,Customer,Submits booking request,Success,2024-10-11 10:12:21,2024-10-11 10:16:21
+7697,Local Transportation System,Confirms booking status,Success,2024-10-11 10:16:21,2024-10-11 10:25:21
+1396,Local Transportation System,Confirm notification,Success,2024-10-11 10:25:21,2024-10-11 10:27:21
+8243,Local Transportation System,Booking confirmed,Success,2024-10-11 10:27:21,2024-10-11 10:35:21
+8937,Local Transportation System,Booking process finished,Success,2024-10-11 10:35:21,2024-10-11 10:38:21
+8882,Customer,Creates a new booking,Success,2024-10-11 10:05:23,2024-10-11 10:08:23
+9033,Customer,Selects Date,Success,2024-10-11 10:08:23,2024-10-11 10:15:23
+9560,Customer,Selects Time,Success,2024-10-11 10:15:23,2024-10-11 10:19:23
+8910,Local Transportation System,Checks Availablility,Success,2024-10-11 10:19:23,2024-10-11 10:22:23
+3506,Customer,Submits booking request,Success,2024-10-11 10:22:23,2024-10-11 10:25:23
+5529,Local Transportation System,Confirms booking status,Success,2024-10-11 10:25:23,2024-10-11 10:33:23
+7689,Local Transportation System,Confirm notification,Success,2024-10-11 10:33:23,2024-10-11 10:35:23
+2920,Local Transportation System,Booking confirmed,Success,2024-10-11 10:35:23,2024-10-11 10:36:23
+5071,Local Transportation System,Booking process finished,Success,2024-10-11 10:36:23,2024-10-11 10:37:23
+3382,Customer,Creates a new booking,Success,2024-10-11 10:05:24,2024-10-11 10:08:24
+5668,Customer,Selects Date,Success,2024-10-11 10:08:24,2024-10-11 10:10:24
+9120,Customer,Selects Time,Success,2024-10-11 10:10:24,2024-10-11 10:11:24
+1198,Customer,Creates a new booking,Success,2024-10-11 10:05:24,2024-10-11 10:08:24
+4069,Customer,Selects Date,Success,2024-10-11 10:08:24,2024-10-11 10:10:24
+6819,Customer,Selects Time,Success,2024-10-11 10:10:24,2024-10-11 10:14:24
+1936,Local Transportation System,Checks Availablility,Success,2024-10-11 10:14:24,2024-10-11 10:16:24
+5179,Customer,Submits booking request,Success,2024-10-11 10:16:24,2024-10-11 10:19:24
+5834,Local Transportation System,Confirms booking status,Success,2024-10-11 10:19:24,2024-10-11 10:24:24
+7307,Local Transportation System,Confirm notification,Success,2024-10-11 10:24:24,2024-10-11 10:25:24
+4354,Local Transportation System,Booking confirmed,Success,2024-10-11 10:25:24,2024-10-11 10:32:24
+3058,Local Transportation System,Booking process finished,Success,2024-10-11 10:32:24,2024-10-11 10:33:24
+4361,Customer,Creates a new booking,Success,2024-10-11 10:05:24,2024-10-11 10:10:24
+3344,Customer,Selects Date,Success,2024-10-11 10:10:24,2024-10-11 10:12:24
+4511,Customer,Selects Time,Success,2024-10-11 10:12:24,2024-10-11 10:13:24
+3037,Local Transportation System,Checks Availablility,Success,2024-10-11 10:13:24,2024-10-11 10:15:24
+1322,Customer,Submits booking request,Success,2024-10-11 10:15:24,2024-10-11 10:19:24
+4341,Local Transportation System,Confirms booking status,Success,2024-10-11 10:19:24,2024-10-11 10:24:24
+6044,Local Transportation System,Confirm notification,Success,2024-10-11 10:24:24,2024-10-11 10:26:24
+9133,Local Transportation System,Booking confirmed,Success,2024-10-11 10:26:24,2024-10-11 10:28:24
+8697,Local Transportation System,Booking process finished,Success,2024-10-11 10:28:24,2024-10-11 10:29:24
+7126,Customer,Creates a new booking,Success,2024-10-11 10:05:25,2024-10-11 10:07:25
+8399,Customer,Selects Date,Success,2024-10-11 10:07:25,2024-10-11 10:12:25
+8027,Customer,Selects Time,Success,2024-10-11 10:12:25,2024-10-11 10:14:25
+5786,Local Transportation System,Checks Availablility,Success,2024-10-11 10:14:25,2024-10-11 10:16:25
+9345,Customer,Submits booking request,Success,2024-10-11 10:16:25,2024-10-11 10:17:25
+8632,Local Transportation System,Confirms booking status,Success,2024-10-11 10:17:25,2024-10-11 10:21:25
+7479,Local Transportation System,Confirm notification,Success,2024-10-11 10:21:25,2024-10-11 10:23:25
+9932,Local Transportation System,Booking confirmed,Success,2024-10-11 10:23:25,2024-10-11 10:28:25
+2306,Local Transportation System,Booking process finished,Success,2024-10-11 10:28:25,2024-10-11 10:30:25
+1036,Customer,Creates a new booking,Success,2024-10-11 10:05:41,2024-10-11 10:07:41
+6017,Customer,Selects Date,Success,2024-10-11 10:07:41,2024-10-11 10:14:41
+5859,Customer,Selects Time,Success,2024-10-11 10:14:41,2024-10-11 10:15:41
+7958,Local Transportation System,Checks Availablility,Success,2024-10-11 10:15:41,2024-10-11 10:16:41
+8667,Customer,Submits booking request,Success,2024-10-11 10:16:41,2024-10-11 10:19:41
+6004,Local Transportation System,Confirms booking status,Success,2024-10-11 10:19:41,2024-10-11 10:26:41
+7370,Local Transportation System,Confirm notification,Success,2024-10-11 10:26:41,2024-10-11 10:28:41
+8300,Local Transportation System,Booking confirmed,Success,2024-10-11 10:28:41,2024-10-11 10:31:41
+2713,Local Transportation System,Booking process finished,Success,2024-10-11 10:31:41,2024-10-11 10:33:41
+6713,Customer,Creates a new booking,Success,2024-10-11 10:05:42,2024-10-11 10:10:42
+1006,Customer,Selects Date,Success,2024-10-11 10:10:42,2024-10-11 10:11:42
+6299,Customer,Selects Time,Success,2024-10-11 10:11:42,2024-10-11 10:14:42
+8631,Customer,Creates a new booking,Success,2024-10-11 10:05:42,2024-10-11 10:07:42
+5245,Customer,Selects Date,Success,2024-10-11 10:07:42,2024-10-11 10:10:42
+6497,Customer,Selects Time,Success,2024-10-11 10:10:42,2024-10-11 10:11:42
+2795,Customer,Creates a new booking,Success,2024-10-11 10:05:42,2024-10-11 10:06:42
+2925,Customer,Selects Date,Success,2024-10-11 10:06:42,2024-10-11 10:12:42
+3778,Customer,Selects Time,Success,2024-10-11 10:12:42,2024-10-11 10:14:42
+1489,Customer,Creates a new booking,Success,2024-10-11 10:05:42,2024-10-11 10:06:42
+3155,Customer,Selects Date,Success,2024-10-11 10:06:42,2024-10-11 10:07:42
+6010,Customer,Selects Time,Success,2024-10-11 10:07:42,2024-10-11 10:10:42
+4643,Customer,Creates a new booking,Success,2024-10-11 10:05:42,2024-10-11 10:07:42
+3805,Customer,Selects Date,Success,2024-10-11 10:07:42,2024-10-11 10:13:42
+1971,Customer,Selects Time,Success,2024-10-11 10:13:42,2024-10-11 10:16:42
+2992,Customer,Creates a new booking,Success,2024-10-11 10:05:42,2024-10-11 10:08:42
+6241,Customer,Selects Date,Success,2024-10-11 10:08:42,2024-10-11 10:10:42
+4172,Customer,Selects Time,Success,2024-10-11 10:10:42,2024-10-11 10:15:42
+4760,Customer,Creates a new booking,Success,2024-10-11 10:05:42,2024-10-11 10:07:42
+1406,Customer,Selects Date,Success,2024-10-11 10:07:42,2024-10-11 10:12:42
+9191,Customer,Selects Time,Success,2024-10-11 10:12:42,2024-10-11 10:13:42
+7470,Local Transportation System,Checks Availablility,Success,2024-10-11 10:13:42,2024-10-11 10:15:42
+8391,Customer,Submits booking request,Success,2024-10-11 10:15:42,2024-10-11 10:18:42
+4195,Local Transportation System,Confirms booking status,Success,2024-10-11 10:18:42,2024-10-11 10:24:42
+5909,Local Transportation System,Confirm notification,Success,2024-10-11 10:24:42,2024-10-11 10:25:42
+3466,Local Transportation System,Booking confirmed,Success,2024-10-11 10:25:42,2024-10-11 10:33:42
+4641,Local Transportation System,Booking process finished,Success,2024-10-11 10:33:42,2024-10-11 10:36:42
+3992,Customer,Creates a new booking,Success,2024-10-11 10:05:43,2024-10-11 10:09:43
+5721,Customer,Selects Date,Success,2024-10-11 10:09:43,2024-10-11 10:15:43
+7047,Customer,Selects Time,Success,2024-10-11 10:15:43,2024-10-11 10:20:43
+5583,Local Transportation System,Checks Availablility,Success,2024-10-11 10:20:43,2024-10-11 10:21:43
+5881,Customer,Submits booking request,Success,2024-10-11 10:21:43,2024-10-11 10:22:43
+9855,Local Transportation System,Confirms booking status,Success,2024-10-11 10:22:43,2024-10-11 10:25:43
+5015,Local Transportation System,Confirm notification,Success,2024-10-11 10:25:43,2024-10-11 10:26:43
+3700,Local Transportation System,Booking confirmed,Success,2024-10-11 10:26:43,2024-10-11 10:28:43
+3293,Local Transportation System,Booking process finished,Success,2024-10-11 10:28:43,2024-10-11 10:32:43
+1046,Customer,Creates a new booking,Success,2024-10-11 10:05:44,2024-10-11 10:07:44
+8747,Customer,Selects Date,Success,2024-10-11 10:07:44,2024-10-11 10:09:44
+4756,Customer,Selects Time,Success,2024-10-11 10:09:44,2024-10-11 10:14:44
+9513,Local Transportation System,Checks Availablility,Success,2024-10-11 10:14:44,2024-10-11 10:15:44
+8951,Customer,Submits booking request,Success,2024-10-11 10:15:44,2024-10-11 10:18:44
+6061,Local Transportation System,Confirms booking status,Success,2024-10-11 10:18:44,2024-10-11 10:22:44
+9012,Local Transportation System,Confirm notification,Success,2024-10-11 10:22:44,2024-10-11 10:24:44
+7747,Local Transportation System,Booking confirmed,Success,2024-10-11 10:24:44,2024-10-11 10:32:44
+7692,Local Transportation System,Booking process finished,Success,2024-10-11 10:32:44,2024-10-11 10:33:44
