@@ -34,7 +34,7 @@
 
 1. follow the following guide and install python in your pc
 
-    For Windows Users - https://docs.python.org/3/using/windows.html
+    For Windows Users - https://docs.python.org/3/using/windows.html <br>
     For Mac Users - https://docs.python.org/3/using/mac.html
 
 ### 2. To run a Microservice
