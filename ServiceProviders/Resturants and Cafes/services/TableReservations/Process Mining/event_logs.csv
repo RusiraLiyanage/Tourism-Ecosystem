@@ -1,0 +1,21 @@
+Case ID,Actor,Action,Outcome,Start Timestamp,Complete Timestamp
+8007,Customer,Selects Time,Success,2024-10-17 18:21:03,2024-10-17 18:21:08
+8822,Local Transportation System,Confirm notification,Success,2024-10-17 18:21:04,2024-10-17 18:21:07
+6254,Customer,Confirms booking,Success,2024-10-17 18:21:07,2024-10-17 18:21:12
+3055,Customer,Selects Time,Success,2024-10-17 18:21:06,2024-10-17 18:21:07
+8848,Customer,Selects Time,Success,2024-10-17 18:21:09,2024-10-17 18:21:10
+3966,Customer,Confirms booking,Success,2024-10-17 18:21:07,2024-10-17 18:21:11
+8565,Customer,Creates a new booking,Success,2024-10-17 18:21:11,2024-10-17 18:21:15
+9666,Customer,Creates a new booking,Success,2024-10-17 18:21:11,2024-10-17 18:21:13
+6863,Customer,Selects Time,Success,2024-10-17 18:21:07,2024-10-17 18:21:10
+7236,Customer,Confirms booking,Success,2024-10-17 18:21:03,2024-10-17 18:21:07
+8445,Local Transportation System,Booking failed,Fail,2024-10-17 18:21:05,2024-10-17 18:21:07
+3452,Local Transportation System,Closes booking process,Success,2024-10-17 18:21:04,2024-10-17 18:21:08
+2759,Customer,Confirms booking,Success,2024-10-17 18:21:09,2024-10-17 18:21:13
+4665,Customer,Creates a new booking,Success,2024-10-17 18:21:09,2024-10-17 18:21:12
+7312,Local Transportation System,Confirm notification,Success,2024-10-17 18:21:08,2024-10-17 18:21:11
+8442,Customer,Creates a new booking,Success,2024-10-17 18:21:10,2024-10-17 18:21:15
+9879,Local Transportation System,Checks Availability,Success,2024-10-17 18:21:07,2024-10-17 18:21:09
+2626,Customer,Creates a new booking,Success,2024-10-17 18:21:02,2024-10-17 18:21:03
+6482,Local Transportation System,Booking failed,Fail,2024-10-17 18:21:10,2024-10-17 18:21:12
+2836,Local Transportation System,Closes booking process,Success,2024-10-17 18:21:07,2024-10-17 18:21:08
