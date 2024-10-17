@@ -105,4 +105,4 @@ def delete_reservation(reservation_id):
     return jsonify({"error": "Reservation not found"}), 404
 
 if __name__ == "__main__":
-    app.run(port=5006)
+    app.run(port=5010)

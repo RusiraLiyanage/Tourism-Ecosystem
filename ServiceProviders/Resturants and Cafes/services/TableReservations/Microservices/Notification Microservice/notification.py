@@ -25,4 +25,4 @@ def send_notification():
     return jsonify({"message": "Notification sent", "data": notification_data}), 201
 
 if __name__ == "__main__":
-    app.run(port=5002)
+    app.run(port=5009)
