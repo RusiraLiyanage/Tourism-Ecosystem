@@ -37,6 +37,14 @@
     For Windows Users - https://docs.python.org/3/using/windows.html <br>
     For Mac Users - https://docs.python.org/3/using/mac.html
 
+### 2. Install Flask
+
+1. Open a Terminal
+3. Afterwards, run the following command to install flask server into your machine globally,
+    ```
+    pip install Flask
+    ```
+
 ### 2. To run a Microservice
 
 1. Open a Terminal
