@@ -35,7 +35,7 @@
 1. follow the following guide and install python in your pc
 
     For Windows Users - https://docs.python.org/3/using/windows.html
-For Mac Users - https://docs.python.org/3/using/mac.html
+    For Mac Users - https://docs.python.org/3/using/mac.html
 
 ### 2. To run a Microservice
 
@@ -49,7 +49,7 @@ For Mac Users - https://docs.python.org/3/using/mac.html
 
 1.  Open a Terminal
 2. Navigate to the path of a specific Process SImulation (Ex - cd cd ServiceProviders\EventOrganiers\Services\EventScheduling\Process Mining)
-3. Afterwards, run the following command to run a manually generated process execiton,
+3. Afterwards, run the following command to run a manually generated process execution,
     ```
     python eventSchedulingSimulation.py
     ```
